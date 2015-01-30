@@ -1,0 +1,4 @@
+exportPattern("^[^\\.]")
+useDynLib(structreg)
+export(linreg_path)
+export(filtering)
